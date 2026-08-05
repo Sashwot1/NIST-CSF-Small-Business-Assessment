@@ -38,7 +38,7 @@ The main risks identified were:
 
 The final report brings together the company profile, asset inventory, risk assessment, NIST CSF 2.0 gap analysis, priority recommendations, and 90-day improvement plan.
 
-[View the Complete Final Report](<Final Document/Final Report - Small Business Cybersecurity Assessment.pdf?raw=1>)
+[View the Complete Final Report](<Final Document/Final Report - Small Business Cybersecurity Assessment.pdf>)
 
 ### Supporting Documents
 
